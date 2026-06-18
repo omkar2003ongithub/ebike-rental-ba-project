@@ -66,7 +66,7 @@ ebike-rental-ba-project/
 
 ### Elicitation & Collaboration
 - [Stakeholder Identification Register](docs/03_elicitation/Stakeholder_identification.md)
-- [Elicitation Interview Questions](docs/03_elicitation/interview_questions.md)
+- [Elicitation Interview Questions](docs/03_elicitation/Interview_questions.md)
 
 ### Strategy Analysis
 - *(Coming soon)*
