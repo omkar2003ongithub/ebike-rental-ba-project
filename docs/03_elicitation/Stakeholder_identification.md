@@ -8,7 +8,7 @@
 | **Document Title** | Stakeholder Identification Register          |
 | **Version**        | v1.0                                         |
 | **Date**           | May 2026                                     |
-| **Author**         | [Your Name], Business Analyst                |
+| **Author**         | Omkar Vartak, Business Analyst                |
 | **BABOK Area**     | Elicitation & Collaboration                  |
 | **Agile Artifact** | Input to Product Backlog & Sprint Planning   |
 | **Status**         | Baseline                                     |
@@ -121,7 +121,7 @@ This register covers stakeholders relevant to the **initial metropolitan launch 
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
-| v1.0 | May 2026 | [Your Name] | Initial baseline document created |
+| v1.0 | May 2026 | Omkar Vartak | Initial baseline document created |
 
 ---
 
