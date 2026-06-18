@@ -129,4 +129,4 @@ Following completion of stakeholder interviews, the Business Analyst will:
 
 *This document is part of the e-Bike Rental Startup BA Case Study Portfolio.*
 *BABOK Knowledge Area: Elicitation & Collaboration | Technique: Structured Stakeholder Interviews*
-*Repository: [GitHub Repo Link]*
+*Repository: [https://shorturl.at/AYGsu]*
