@@ -8,7 +8,7 @@
 | **Document Title** | Requirements Prioritization — MoSCoW |
 | **Version** | v1.0 |
 | **Date** | May 2026 |
-| **Author** | [Your Name], Business Analyst |
+| **Author** | Omkar Vartak, Business Analyst |
 | **BABOK Area** | Requirements Life Cycle Management |
 | **Technique** | MoSCoW Prioritization |
 | **Status** | Baseline |
@@ -132,7 +132,7 @@ Requirements were elicited through structured stakeholder interviews across thre
 
 | Version | Date | Author | Changes |
 |---|---|---|---|
-| v1.0 | May 2026 | [Your Name] | Initial baseline document created |
+| v1.0 | May 2026 | Omkar Vartak | Initial baseline document created |
 
 ---
 
