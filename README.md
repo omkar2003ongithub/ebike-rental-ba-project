@@ -57,7 +57,7 @@ ebike-rental-ba-project/
 | 1 | Strategy Analysis | Business Need Statement, SWOT Analysis, Gap Analysis | 🔄 In Progress |
 | 2 | BA Planning & Monitoring | BA Plan, Stakeholder Register, Communication Plan | 📅 Upcoming |
 | 3 | Elicitation & Collaboration | Stakeholder Identification, Interview Questions, Workshop Notes | ✅ Completed |
-| 4 | Requirements Lifecycle Management | Requirements Traceability Matrix (RTM), Change Log | 📅 Upcoming |
+| 4 | Requirements Lifecycle Management | Requirements Traceability Matrix (RTM), Change Log | 🔄 In Progress |
 | 5 | Solution Evaluation | Acceptance Criteria, KPIs, Evaluation Report | 📅 Upcoming |
 
 ---
