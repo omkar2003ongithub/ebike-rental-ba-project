@@ -8,7 +8,7 @@
 | **Document Title** | Requirements Traceability Matrix (RTM) |
 | **Version** | v1.0 |
 | **Date** | May 2026 |
-| **Author** | [Your Name], Business Analyst |
+| **Author** | Omkar Vartak, Business Analyst |
 | **BABOK Area** | Requirements Life Cycle Management |
 | **Technique** | Requirements Traceability |
 | **Status** | Baseline |
@@ -114,10 +114,10 @@ This RTM establishes a formal link between each elicited requirement and its ori
 
 | Version | Date | Author | Changes |
 |---|---|---|---|
-| v1.0 | May 2026 | [Your Name] | Initial RTM created post MoSCoW prioritization |
+| v1.0 | May 2026 | Omkar Vartak | Initial RTM created post MoSCoW prioritization |
 
 ---
 
 *This document is part of the e-Bike Rental Startup BA Case Study Portfolio.*
 *BABOK Knowledge Area: Requirements Life Cycle Management | Technique: Requirements Traceability Matrix*
-*Repository: [GitHub Repo Link]*
+*Repository: *
