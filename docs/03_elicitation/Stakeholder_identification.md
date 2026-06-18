@@ -127,4 +127,4 @@ This register covers stakeholders relevant to the **initial metropolitan launch 
 
 *This document is part of the e-Bike Rental Startup BA Case Study Portfolio.*
 *BABOK Knowledge Area: Elicitation & Collaboration | Technique: Stakeholder Identification*
-*Repository: [GitHub Repo Link]*
+*Repository: [https://shorturl.at/AYGsu]
