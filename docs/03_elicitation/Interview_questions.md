@@ -8,7 +8,7 @@
 | **Document Title** | Elicitation Interview Questions |
 | **Version** | v1.0 |
 | **Date** | May 2026 |
-| **Author** | [Omkar Vartak, Business Analyst |
+| **Author** | Omkar Vartak, Business Analyst |
 | **BABOK Area** | Elicitation & Collaboration |
 | **Technique** | Structured Stakeholder Interviews |
 | **Status** | Baseline |
