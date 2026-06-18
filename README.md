@@ -65,7 +65,7 @@ ebike-rental-ba-project/
 ## Key Documents
 
 ### Elicitation & Collaboration
-- [Stakeholder Identification Register]([docs/03_elicitation/stakeholder_identification.md](https://github.com/omkar2003ongithub/ebike-rental-ba-project/blob/main/docs/03_elicitation/Stakeholder_identification.md))
+- [Stakeholder Identification Register]((https://github.com/omkar2003ongithub/ebike-rental-ba-project/blob/main/docs/03_elicitation/Stakeholder_identification.md))
 - [Elicitation Interview Questions](docs/03_elicitation/interview_questions.md)
 
 ### Strategy Analysis
