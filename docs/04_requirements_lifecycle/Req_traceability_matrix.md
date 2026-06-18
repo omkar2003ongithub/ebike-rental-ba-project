@@ -120,4 +120,4 @@ This RTM establishes a formal link between each elicited requirement and its ori
 
 *This document is part of the e-Bike Rental Startup BA Case Study Portfolio.*
 *BABOK Knowledge Area: Requirements Life Cycle Management | Technique: Requirements Traceability Matrix*
-*Repository: *
+*Repository: https://shorturl.at/AYGsu *
